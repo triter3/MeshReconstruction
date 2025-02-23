@@ -1,6 +1,7 @@
 #include "MeshReconstruction.h"
 #include "Cube.h"
 #include "Triangulation.h"
+#include <cmath>
 
 using namespace MeshReconstruction;
 using namespace std;
